@@ -1,6 +1,6 @@
 globals
 //==============================================
-//constants
+//constants xx
 //==============================================
 //hashtable
 hashtable H=InitHashtable()
